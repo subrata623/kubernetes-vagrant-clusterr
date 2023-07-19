@@ -57,6 +57,4 @@ worker.vm.provider "virtualbox" do |v|
     v.cpus = 1
 end
 ```
-## References
-* This repository was forked from [Innablr/K8s_ubuntu](https://github.com/Innablr/k8s_ubuntu)
-* Installing Addons for Kubernetes [Installing Addons](https://kubernetes.io/docs/concepts/cluster-administration/addons/)
+
