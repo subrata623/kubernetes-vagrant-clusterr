@@ -17,7 +17,7 @@ The following are the system prerequisites:
 
 - Clone the following repository by using this statement:
 ```
-git clone https://github.com/hfmartinez/kubernetes-vagrant.git
+git clone https://github.com/subrata623/kubernetes-vagrant-clusterr.git
 ```
 
 - Inside the repository folder that contains the Vagrantfile, start the virtual machines: 
